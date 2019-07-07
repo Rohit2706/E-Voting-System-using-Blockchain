@@ -78,7 +78,7 @@ Not everyone in India is tech literate. This poses as one of the major challenge
 # Authors
 
 1. [Rohit Jain](https://github.com/Rohit2706)
-2. Sarthak Sehgal
+2. [Sarthak Sehgal](https://github.com/sarthak-sehgal)
 3. Srujana
 
 **College: BITS Pilani, Pilani**
