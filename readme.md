@@ -79,8 +79,8 @@ Not everyone in India is tech literate. This poses as one of the major challenge
 
 1. [Rohit Jain](https://github.com/Rohit2706)
 2. [Sarthak Sehgal](https://github.com/sarthak-sehgal)
-3. Srujana
+3. [Srujana](https://github.com/Kiddo25)
 
 **College: BITS Pilani, Pilani**
 
-**Team Name: Chai mein Duba Biscuit**
+**Team Name: CMDB**
