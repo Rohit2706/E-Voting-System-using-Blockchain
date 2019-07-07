@@ -61,8 +61,9 @@ The DApp would also host the live results of the elections during the voting pro
 
 1. Any person can vote from anywhere provided he/she is a registered voter without any hassle of going to the election polls.
 
-2. The voting process could be modelled in an object oriented way modelling all levels of ministers: 
-                           Constituency -> City -> State -> Country
+2. The voting process could be modelled in an object oriented way modelling all levels of ministers:
+                           
+                                       Constituency -> City -> State -> Country
    
    Thus, all kinds of elections: State Elections, Central Elections can be hosted via this project.
    
@@ -76,9 +77,10 @@ Not everyone in India is tech literate. This poses as one of the major challenge
 
 # Authors
 
-1. [Rohit Jain]("https://github.com/Rohit2706")
+1. [Rohit Jain](https://github.com/Rohit2706)
 2. Sarthak Sehgal
 3. Srujana
 
-College: BITS Pilani, Pilani
-Team Name: Chai mein Duba Biscuit
+**College: BITS Pilani, Pilani**
+
+**Team Name: Chai mein Duba Biscuit**
