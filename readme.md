@@ -26,7 +26,7 @@ While not all the problems could be solved by technology, we intend to use the b
 
 The project intends to simulate the Election System in India.
 
-<img src="Voter's Portal.png"> 
+<img src="Architecture.png"> 
 
 ### Voter Registration and Authentication
 
