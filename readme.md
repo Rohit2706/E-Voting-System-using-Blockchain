@@ -26,7 +26,7 @@ While not all the problems could be solved by technology, we intend to use the b
 
 The project intends to simulate the Election System in India.
 
-<img src="Architecture.png"> 
+<img src="Architecture.png" width="70%"> 
 
 ### Voter Registration and Authentication
 
@@ -57,7 +57,7 @@ The DApp would include following functionalities:
 
 The DApp would also host the live results of the elections during the voting process thus revealing the results immediately.
 
-<img src="Events.png">
+<img src="Events.png" width="50%">
 
 ## Dedicated portals
 Note:
@@ -67,13 +67,13 @@ Note:
 - SC4: Smart contract storing information like news regarding elections, ban on any candidate, etc.
 
 ### Voter's Portal
-<img src="Voter Portal.png">
+<img src="Voter Portal.png" width="40%">
 
 ### Candidate's Portal
-<img src="Candidate Portal.png">
+<img src="Candidate Portal.png" width="40%">
 
 ### EC's Portal
-<img src="EC Portal.png">
+<img src="EC Portal.png" width="40%">
 
 ## Relevance and Scalability of the Idea
 
