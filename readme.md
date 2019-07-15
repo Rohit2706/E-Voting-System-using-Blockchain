@@ -4,7 +4,7 @@
 
 Blockchain-the revolutionary technology was first introduced by Satoshi Nakamoto in his whitepaper 'Bitcoin: A Peer-to-Peer Electronic Cash System' introducing the first cryptocurrency. While the technology has revolutionalized the idea of digital currency, it also finds it's applications in other fields like Supply Chain Management and Asset Transfers to name a few.
 
-What makes blockchain unique is it's inherent architecture that supports a decentralized distributed and immutable ledger.
+What makes blockchain unique is it's inherent architecture that supports a decentralized, distributed and immutable ledger.
 
 The key features are:
 1. Decentralization
@@ -13,7 +13,7 @@ The key features are:
 4. Distributed and P2P Network
 5. Security and Anonymity
 
-Democracy is the best form of government, while many argue, might be true in theory. However, it creates another set of problems like-
+Democracy is the best form of government while many argue might be true in theory, it creates another set of problems in the real world like-
 1. Delay in results
 2. Vote Tampering
 3. Threat to security and privacy
@@ -26,7 +26,7 @@ While not all the problems could be solved by technology, we intend to use the b
 
 The project intends to simulate the Election System in India.
 
-<img src="Architecture.png" width="70%"> 
+<img src="images/Architecture.png" width="70%"> 
 
 ### Voter Registration and Authentication
 
@@ -36,7 +36,7 @@ The portal will be a webapp to carry out the registration process. The functiona
 2. Modify/change Details such as address, city
 3. Removal of Voter(due to death or any other reason as stated in the constitution)
 
-Voters would use this portal to register or see/verify the details that the Election Commision(EC) maintains. The databse ould be maintained in blockchain via a smart contract so as to ensure privacy and security of personal data.
+Voters would use this portal to register or see/verify the details that the Election Commision(EC) maintains. The database could be maintained in blockchain via a smart contract so as to ensure privacy and security of personal data.
 
 #### Election Phase
 
@@ -44,7 +44,7 @@ Once the voter registration phase gets over, the election phase begins. EC will 
 
 ### Candidate Registration And Authentication
 
-The portal will be similar as the voter's portal but would intend to carry out the registration of the candidates. On authentication, each candidate/ party will be given a unique identification number to be used in the entire election process. The database would be maintained in another smart contract for similar reasons.
+The portal will be similar as the voter's portal but would intend to carry out the registration of the candidates. On authentication, each candidate/ party will be given a unique identification number to be used in the entire election process. The database would be maintained in another smart contract.
 
 ### The Election Process via CastYourVote DApp
 
@@ -57,7 +57,7 @@ The DApp would include following functionalities:
 
 The DApp would also host the live results of the elections during the voting process thus revealing the results immediately.
 
-<img src="Events.png" width="50%">
+<img src="images/Events.png" width="50%">
 
 ## Dedicated portals
 Note:
@@ -67,13 +67,13 @@ Note:
 - SC4: Smart contract storing information like news regarding elections, ban on any candidate, etc.
 
 ### Voter's Portal
-<img src="Voter Portal.png" width="40%">
+<img src="images/Voter Portal.png" width="40%">
 
 ### Candidate's Portal
-<img src="Candidate Portal.png" width="40%">
+<img src="images/Candidate Portal.png" width="40%">
 
 ### EC's Portal
-<img src="EC Portal.png" width="40%">
+<img src="images/EC Portal.png" width="40%">
 
 ## Relevance and Scalability of the Idea
 
