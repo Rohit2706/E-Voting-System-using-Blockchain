@@ -57,6 +57,24 @@ The DApp would include following functionalities:
 
 The DApp would also host the live results of the elections during the voting process thus revealing the results immediately.
 
+<img src="Events.png">
+
+## Dedicated portals
+Note:
+- SC1: Smart contract to store candidate information
+- SC2: Smart contract to store voter information
+- SC3: Smart contract for live tracking of votes
+- SC4: Smart contract storing information like news regarding elections, ban on any candidate, etc.
+
+### Voter's Portal
+<img src="Voter Portal.png">
+
+### Candidate's Portal
+<img src="Candidate Portal.png">
+
+### EC's Portal
+<img src="EC Portal.png">
+
 ## Relevance and Scalability of the Idea
 
 1. Any person can vote from anywhere provided he/she is a registered voter without any hassle of going to the election polls.
